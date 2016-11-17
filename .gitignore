@@ -2,8 +2,6 @@
 *.apk
 *.ap_
 
-//p,omi,o,oascac
-
 # Files for the ART/Dalvik VM
 *.dex
 
